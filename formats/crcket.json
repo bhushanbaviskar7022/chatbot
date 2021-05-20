@@ -1,0 +1,363 @@
+{
+    "dateTimeGMT": "2020-08-13T10:00:00.000Z",
+    "data": {
+        "fielding": [
+            {
+                "title": "Fielding for Pakistan 1st Innings England Team",
+                "scores": [
+                    {
+                        "name": "James Anderson",
+                        "runout": 0,
+                        "stumped": 0,
+                        "bowled": 0,
+                        "lbw": 1,
+                        "catch": 0,
+                        "pid": "8608"
+                    }
+                ]
+            }
+        ],
+        "bowling": [
+            {
+                "scores": [
+                    {
+                        "NB": "0",
+                        "WD": "0",
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": "2.00",
+                        "W": "1",
+                        "R": "10",
+                        "M": "1",
+                        "O": "5",
+                        "bowler": "JM Anderson",
+                        "pid": "8608"
+                    },
+                    {
+                        "NB": "0",
+                        "WD": "0",
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": "1.40",
+                        "W": "0",
+                        "R": "7",
+                        "M": "2",
+                        "O": "5",
+                        "bowler": "SCJ Broad",
+                        "pid": "10617"
+                    },
+                    {
+                        "NB": "0",
+                        "WD": "0",
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": "1.75",
+                        "W": "0",
+                        "R": "7",
+                        "M": "0",
+                        "O": "4",
+                        "bowler": "SM Curran",
+                        "pid": "662973"
+                    },
+                    {
+                        "NB": "0",
+                        "WD": "0",
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": "4.00",
+                        "W": "0",
+                        "R": "12",
+                        "M": "1",
+                        "O": "3",
+                        "bowler": "CR Woakes",
+                        "pid": "247235"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Batsman",
+                        "bowler": "Rory Burns \u00a0",
+                        "pid": "398778"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Batsman",
+                        "bowler": "Dom Sibley \u00a0",
+                        "pid": "519082"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Batsman",
+                        "bowler": "Zak Crawley \u00a0",
+                        "pid": "665053"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Batsman",
+                        "bowler": "Joe Root (c)\u00a0",
+                        "pid": "303669"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Batsman",
+                        "bowler": "Ollie Pope \u00a0",
+                        "pid": "887207"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Wicketkeeper",
+                        "bowler": "Jos Buttler \u00a0 ",
+                        "pid": "308967"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Allrounder",
+                        "bowler": "Chris Woakes \u00a0",
+                        "pid": "247235"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Allrounder",
+                        "bowler": "Sam Curran \u00a0",
+                        "pid": "662973"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Allrounder",
+                        "bowler": "Dom Bess \u00a0",
+                        "pid": "646847"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Bowler",
+                        "bowler": "Stuart Broad \u00a0",
+                        "pid": "10617"
+                    },
+                    {
+                        "NB": null,
+                        "WD": null,
+                        "6s": 0,
+                        "4s": 0,
+                        "0s": 0,
+                        "Econ": 0,
+                        "O": "Bowler",
+                        "bowler": "James Anderson \u00a0",
+                        "pid": "8608"
+                    }
+                ],
+                "title": "Bowling To Pakistan 1st Innings England Team"
+            }
+        ],
+        "batting": [
+            {
+                "scores": [
+                    {
+                        "dismissal-by": {
+                            "name": "James Anderson",
+                            "pid": "8608"
+                        },
+                        "dismissal": "lbw",
+                        "SR": 20,
+                        "6s": 0,
+                        "4s": 0,
+                        "M": 0,
+                        "B": 5,
+                        "R": 1,
+                        "dismissal-info": "lbw b Anderson",
+                        "batsman": "Shan Masood",
+                        "pid": "233901"
+                    },
+                    {
+                        "SR": 47,
+                        "6s": 0,
+                        "4s": 3,
+                        "M": 0,
+                        "B": 51,
+                        "R": 24,
+                        "dismissal-info": "",
+                        "batsman": "Abid Ali",
+                        "pid": "39950"
+                    },
+                    {
+                        "SR": 23,
+                        "6s": 0,
+                        "4s": 0,
+                        "M": 0,
+                        "B": 46,
+                        "R": 11,
+                        "dismissal-info": "",
+                        "batsman": "Azhar Ali\u00a0(c)",
+                        "pid": "39037"
+                    }
+                ],
+                "title": "Pakistan 1st Innings England Team"
+            }
+        ],
+        "team": [
+            {
+                "players": [
+                    {
+                        "name": "Rory Burns",
+                        "pid": "398778"
+                    },
+                    {
+                        "name": "Dom Sibley",
+                        "pid": "519082"
+                    },
+                    {
+                        "name": "Zak Crawley",
+                        "pid": "665053"
+                    },
+                    {
+                        "name": "Joe Root",
+                        "pid": "303669"
+                    },
+                    {
+                        "name": "Ollie Pope",
+                        "pid": "887207"
+                    },
+                    {
+                        "name": "Jos Buttler",
+                        "pid": "308967"
+                    },
+                    {
+                        "name": "Chris Woakes",
+                        "pid": "247235"
+                    },
+                    {
+                        "name": "Sam Curran",
+                        "pid": "662973"
+                    },
+                    {
+                        "name": "Dom Bess",
+                        "pid": "646847"
+                    },
+                    {
+                        "name": "Stuart Broad",
+                        "pid": "10617"
+                    },
+                    {
+                        "name": "James Anderson",
+                        "pid": "8608"
+                    }
+                ],
+                "name": "England"
+            },
+            {
+                "players": [
+                    {
+                        "name": "Shan Masood",
+                        "pid": "233901"
+                    },
+                    {
+                        "name": "Abid Ali",
+                        "pid": "39950"
+                    },
+                    {
+                        "name": "Azhar Ali",
+                        "pid": "39037"
+                    },
+                    {
+                        "name": "Babar Azam",
+                        "pid": "348144"
+                    },
+                    {
+                        "name": "Asad Shafiq",
+                        "pid": "316397"
+                    },
+                    {
+                        "name": "Fawad Alam",
+                        "pid": "40250"
+                    },
+                    {
+                        "name": "Mohammad Rizwan",
+                        "pid": "323389"
+                    },
+                    {
+                        "name": "Yasir Shah",
+                        "pid": "43685"
+                    },
+                    {
+                        "name": "Shaheen Afridi",
+                        "pid": "1072470"
+                    },
+                    {
+                        "name": "Mohammad Abbas",
+                        "pid": "389666"
+                    },
+                    {
+                        "name": "Naseem Shah",
+                        "pid": "1158088"
+                    }
+                ],
+                "name": "Pakistan"
+            }
+        ],
+        "man-of-the-match": "",
+        "toss_winner_team": "Pakistan",
+        "matchStarted": true
+    },
+    "type": "Tests",
+    "cache3": true,
+    "creditsLeft": 242,
+    "v": "1",
+    "ttl": 4,
+    "provider": {
+        "source": "Various",
+        "url": "https://cricapi.com/",
+        "pubDate": "2020-08-13T11:23:45.348Z"
+    }
+}

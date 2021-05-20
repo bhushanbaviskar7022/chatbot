@@ -1,0 +1,173 @@
+{
+    "matches": [
+        {
+            "unique_id": 1208130,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Northern Superchargers Women",
+            "team-2": "Oval Invincibles Women",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1208131,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "London Spirit Women",
+            "team-2": "Southern Brave Women",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1208045,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Southern Brave",
+            "team-2": "Oval Invincibles",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1208046,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Northern Superchargers",
+            "team-2": "Birmingham Phoenix",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207850,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Worcestershire",
+            "team-2": "Sussex",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207854,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Surrey",
+            "team-2": "Somerset",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207853,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Nottinghamshire",
+            "team-2": "Northamptonshire",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207855,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Middlesex",
+            "team-2": "Durham",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207857,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T00:00:00.000Z",
+            "team-1": "Leicestershire",
+            "team-2": "Glamorgan",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207851,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Kent",
+            "team-2": "Hampshire",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207856,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Gloucestershire",
+            "team-2": "Lancashire",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1207852,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T10:00:00.000Z",
+            "team-1": "Derbyshire",
+            "team-2": "Yorkshire",
+            "squad": false,
+            "matchStarted": true,
+            "type": ""
+        },
+        {
+            "unique_id": 1227784,
+            "date": "2020-07-26T00:00:00.000Z",
+            "dateTimeGMT": "2020-07-26T13:00:00.000Z",
+            "team-1": "Ireland",
+            "team-2": "England Lions",
+            "toss_winner_team": "Ireland",
+            "type": "ODI",
+            "winner_team": "England Lions",
+            "squad": false,
+            "matchStarted": true
+        },
+        {
+            "unique_id": 1198241,
+            "date": "2020-08-05T00:00:00.000Z",
+            "dateTimeGMT": "2020-08-05T10:00:00.000Z",
+            "team-1": "England",
+            "team-2": "Pakistan",
+            "type": "Tests",
+            "squad": true,
+            "matchStarted": false
+        },
+        {
+            "unique_id": 1198242,
+            "date": "2020-08-13T00:00:00.000Z",
+            "dateTimeGMT": "2020-08-13T10:00:00.000Z",
+            "team-1": "England",
+            "team-2": "Pakistan",
+            "type": "Tests",
+            "squad": true,
+            "matchStarted": false
+        },
+        {
+            "unique_id": 1198243,
+            "date": "2020-08-21T00:00:00.000Z",
+            "dateTimeGMT": "2020-08-21T10:00:00.000Z",
+            "team-1": "England",
+            "team-2": "Pakistan",
+            "type": "Tests",
+            "squad": true,
+            "matchStarted": false
+        }
+    ],
+    "v": "1",
+    "ttl": 96,
+    "provider": {
+        "source": "Various",
+        "url": "https://cricapi.com/",
+        "pubDate": "2020-07-27T13:49:06.772Z"
+    },
+    "creditsLeft": 250
